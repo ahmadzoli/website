@@ -1,3 +1,7 @@
+---
+layout: post
+title: About Me
+---
 <b>SOFTWARE</b><br><br>
 	R <br>
 ▫	Data management (dplyr)<br>
