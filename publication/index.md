@@ -1,6 +1,6 @@
 ---
 layout: post
-title: About Me
+title: Publication
 ---
 
 <b>PUBLICATIONS</b><br><br>
