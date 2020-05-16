@@ -1,6 +1,6 @@
 ---
 layout: post
-title: About Me
+title: Software
 ---
 <b>SOFTWARE</b><br><br>
 	R <br>
