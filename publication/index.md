@@ -3,7 +3,7 @@ layout: post
 title: Publication
 ---
 
-<b>PUBLICATIONS</b><br><br>
+<br>
 1.	Noorbakhsh, S., Afzali, M., Conrod, P. (2020). Cognitive function impairments linked to alcohol and cannabis use during adolescence: A study of gender differences. Frontiers in Human Neuroscience.<br><br>
 
 2.	Banaha, N., Ghaeli. P., Afzali, M., Ghasemi, M., (2020).Effects of Celecoxib on electroconvulsive therapy-induced cognitive impairment in patients with major depressive disorder: a pilot, double-blind, placebo-controlled trial. Acta Medica Iranica. <br><br>
