@@ -5,30 +5,30 @@ title: About Me
 <p>
 I am a quantitative psychologist and data scientist. I received my Ph.D. in psychology (Quantitative methods) from Toulouse University where I studied prediction modelling of risk behaviors and computational methods in social sciences. Currently, I work as a Post Doctoral Research Fellow, Chief Investigator, and independent Data Scientist. I specialize in development of computer-based assessment and decision-making tools in the context of human behavior.
 
-SOFTWARE
-	R 
-▫	Data management (dplyr)
-▫	Data visualization (ggplot2)
-▫	Statistical modelling (Stan, lavaan)
-▫	Machine learning (Caret)
-▫	Social network analysis (qgraph)
-	SAS
-▫	General and generalized linear modelling
-	SQL
-▫	Data management
-	Python
-▫	Data management (Pandas)
-▫	Data visualization (Seaborn)
-▫	Statistical modelling (Scipy)
-▫	Machine learning (Scikit-learn)
-▫	Deep learning (Keras)
-	Mplus
-▫	Latent variable modelling
+<b>SOFTWARE</b><br>
+	R <br>
+▫	Data management (dplyr)<br>
+▫	Data visualization (ggplot2)<br>
+▫	Statistical modelling (Stan, lavaan)<br>
+▫	Machine learning (Caret)<br>
+▫	Social network analysis (qgraph)<br>
+	SAS<br>
+▫	General and generalized linear modelling<br>
+	SQL<br>
+▫	Data management<br>
+	Python<br>
+▫	Data management (Pandas)<br>
+▫	Data visualization (Seaborn)<br>
+▫	Statistical modelling (Scipy)<br>
+▫	Machine learning (Scikit-learn)<br>
+▫	Deep learning (Keras)<br>
+	Mplus<br>
+▫	Latent variable modelling<br>
 
 
 
  
-PUBLICATIONS
+<b>PUBLICATIONS</b>
 1.	Noorbakhsh, S., Afzali, M., Conrod, P. (2020). Cognitive function impairments linked to alcohol and cannabis use during adolescence: A study of gender differences. Frontiers in Human Neuroscience.
 
 2.	Banaha, N., Ghaeli. P., Afzali, M., Ghasemi, M., (2020).Effects of Celecoxib on electroconvulsive therapy-induced cognitive impairment in patients with major depressive disorder: a pilot, double-blind, placebo-controlled trial. Acta Medica Iranica. 
