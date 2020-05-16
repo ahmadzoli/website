@@ -1,3 +1,8 @@
+---
+layout: post
+title: About Me
+---
+
 <b>PUBLICATIONS</b><br><br>
 1.	Noorbakhsh, S., Afzali, M., Conrod, P. (2020). Cognitive function impairments linked to alcohol and cannabis use during adolescence: A study of gender differences. Frontiers in Human Neuroscience.<br><br>
 
