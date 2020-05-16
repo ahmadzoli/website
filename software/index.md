@@ -2,7 +2,7 @@
 layout: post
 title: Software
 ---
-<b>SOFTWARE</b><br><br>
+<br>
 	R <br>
 ▫	Data management (dplyr)<br>
 ▫	Data visualization (ggplot2)<br>
