@@ -1,17 +1,15 @@
 ---
 layout: post
 categories: posts
-title: Sample Post
-subtitle: This is a test post.
-featured-image: /images/2016-11-19/abstract-1.jpg
-tags: [sample post]
-date-string: NOVEMBER 20, 2016
+title: Machine Learning prediction of adolescence alcohol use 
+subtitle: with behavioral/neuro-psychological data 
+featured-image: /images/machineLearning.png
+tags: Machine learning, Prediction Modelling, Risk Behaviors, Adolescence
+date-string: January 2019
 ---
 
-Below is just about everything you'll need to style in the theme. Check the source code to see the many embedded elements within paragraphs.
-
 # Heading 1
-
+Machine Learning prediction of adolescence alcohol use with behavioral/neuro-psychological data
 ## Heading 2
 
 ### Heading 3
@@ -24,76 +22,4 @@ Below is just about everything you'll need to style in the theme. Check the sour
 
 ### Body text
 
-Lorem ipsum dolor sit amet, test link adipiscing elit. **This is strong**. Nullam dignissim convallis est. Quisque aliquam.
-
-![Smithsonian Image](/images/3953273590_704e3899d5_m.jpg)
-{: .image-right}
-
-*This is emphasized*. Donec faucibus. Nunc iaculis suscipit dui. 53 = 125. Water is H<sub>2</sub>O. Nam sit amet sem. Aliquam libero nisi, imperdiet at, tincidunt nec, gravida vehicula, nisl. The New York Times <cite>(That’s a citation)</cite>. <u>Underline</u>. Maecenas ornare tortor. Donec sed tellus eget sapien fringilla nonummy. Mauris a ante. Suspendisse quam sem, consequat at, commodo vitae, feugiat in, nunc. Morbi imperdiet augue quis tellus.
-
-HTML and <abbr title="cascading stylesheets">CSS<abbr> are our tools. Mauris a ante. Suspendisse quam sem, consequat at, commodo vitae, feugiat in, nunc. Morbi imperdiet augue quis tellus. Praesent mattis, massa quis luctus fermentum, turpis mi volutpat justo, eu volutpat enim diam eget metus.
-
-### Blockquotes
-
-> Lorem ipsum dolor sit amet, test link adipiscing elit. Nullam dignissim convallis est. Quisque aliquam.
-
-## List Types
-
-### Ordered Lists
-
-1. Item one
-   1. sub item one
-   2. sub item two
-   3. sub item three
-2. Item two
-
-### Unordered Lists
-
-* Item one
-* Item two
-* Item three
-
-## Tables
-
-| Header1 | Header2 | Header3 |
-|:--------|:-------:|--------:|
-| cell1   | cell2   | cell3   |
-| cell4   | cell5   | cell6   |
-|----
-| cell1   | cell2   | cell3   |
-| cell4   | cell5   | cell6   |
-|=====
-| Foot1   | Foot2   | Foot3
-{: rules="groups"}
-
-## Code Snippets
-
-Syntax highlighting via Rouge
-
-```css
-#container {
-  float: left;
-  margin: 0 -240px 0 0;
-  width: 100%;
-}
-```
-
-Non Pygments code example
-
-    <div id="awesome">
-        <p>This is great isn't it?</p>
-    </div>
-
-## Buttons
-
-Make any link standout more when applying the `.btn` class.
-
-```html
-<a href="#" class="btn btn-success">Success Button</a>
-```
-
-<div markdown="0"><a href="#" class="btn">Primary Button</a></div>
-<div markdown="0"><a href="#" class="btn btn-success">Success Button</a></div>
-<div markdown="0"><a href="#" class="btn btn-warning">Warning Button</a></div>
-<div markdown="0"><a href="#" class="btn btn-danger">Danger Button</a></div>
-<div markdown="0"><a href="#" class="btn btn-info">Info Button</a></div>
+A recently published study entitled “Machine Learning Prediction of Early-Onset Alcohol Use: A Cross-Study, Cross-Sample Validation” (Afzali et al., 2019) focuses on the prediction modeling of early-onset alcohol use in an attempt to highlight important methodological issues and to start a dialogue around best practices in prediction psychiatry. This study addressed five issues in prediction modeling, 1) examination of the comparative performance of different machine-learning algorithms and the potential use of super-learners, 2) feature clustering and domain-contribution analysis 3) coefficient extraction and interpretability, 4) limitations of k-fold cross-validation and necessity of an independent test sample, and 5) ethical concerns regarding the concept of “prediction”. A commentary piece on our work is published <a href="https://www.ncbi.nlm.nih.gov/pubmed/30854749">here</a>.
