@@ -2,6 +2,9 @@
 layout: post
 title: About Me
 ---
+<div style="min-width: 80%; min-height: 100% background-image: url("/website/images/images.png"); >
+test
+</div>
 <center>
     <div class="photoset-grid-custom" data-layout="213">
      <img src="/website/images/kamranAfzali.png" />
