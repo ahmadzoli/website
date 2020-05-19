@@ -3,14 +3,14 @@ layout: post
 title: Software
 ---
 
-*R 
+* R
   - Data management (dplyr)
   - Data visualization (ggplot2)
   - Statistical modelling (Stan, lavaan)
   - Machine learning (Caret)
   - Social network analysis (qgraph)
   
- * SAS
+* SAS
   - General and generalized linear modelling
 
 * SQL
