@@ -3,7 +3,7 @@ layout: post
 categories: posts
 title: Machine Learning prediction of adolescence alcohol use with behavioral/neuro-psychological data 
 featured-image: /website/images/machineLearning.png
-tags: [machine Learning, prediction Modelling, risk Behaviors, Adolescence]
+tags: [Machine Learning, Prediction Modelling, Risk Behaviors, Adolescence]
 date-string: January 2019
 ---
 
