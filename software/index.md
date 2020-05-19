@@ -3,25 +3,25 @@ layout: post
 title: Software
 ---
 
--R 
+*R 
   - Data management (dplyr)
   - Data visualization (ggplot2)
   - Statistical modelling (Stan, lavaan)
   - Machine learning (Caret)
   - Social network analysis (qgraph)
   
-  - SAS
+ * SAS
   - General and generalized linear modelling
 
-- SQL
+* SQL
   - Data management
 
-- Python
+* Python
   - Data management (Pandas)
   - Data visualization (Seaborn)
   - Statistical modelling (Scipy)
   - Machine learning (Scikit-learn)
   - Deep learning (Keras)
   
-- Mplus
+* Mplus
   - Latent variable modelling
