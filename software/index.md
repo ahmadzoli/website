@@ -3,6 +3,13 @@ layout: post
 title: Software
 ---
 
+- Item 1
+- Item 2
+- Item 3
+   - Sub item 1
+   - Sub item 2
+- Item 4
+
 * R
   - Data management (dplyr)
   - Data visualization (ggplot2)
