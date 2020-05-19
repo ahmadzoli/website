@@ -3,7 +3,7 @@ layout: post
 title: About Me
 ---
 <div style="width: 100%">
-     <img src="/website/images/images.jpg" width="100%" height="50px"/>
+     <img src="/website/images/images.jpg" style=" width: 100%; height: 35px;" />
 </div>
 <center>
     <div class="photoset-grid-custom" data-layout="213">
