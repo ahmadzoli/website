@@ -2,7 +2,6 @@
 layout: post
 categories: posts
 title: Adolescent depression and reduced cognitive performance
-subtitle: 
 featured-image: /website/master/images/michigan-med-lteen-depression2-01.jpg
 tags: Psychopathology, Adolescence, longitudinalModelling
 date-string: November 2018
