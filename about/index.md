@@ -1,3 +1,6 @@
+<div style="width: 100%">
+     <img src="/website/images/images.jpg" style=" width: 100%; height: 35px;" />
+</div>
 ---
 layout: post
 title: About Me
